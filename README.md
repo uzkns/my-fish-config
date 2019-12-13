@@ -10,8 +10,6 @@ Welcome message shows username, hostname, distro name, system architecture and k
 
 Two line prompt with time, folder and exit code:
 `[15:58:14] ~/.config (0)`
-`∑`
 
-Shell shows current git branch when in a git repo:
+Prompt shows current git branch when in a git repo:
 `[15:58:14] ~/.config/fish (:master) (0)`
-`∑`
